@@ -1,4 +1,9 @@
 # frozen_string_literal: true
+# 0. [もくじ](./0-introduction.md)
+# 1. [私とVim](./1-vim-to-me.md)
+# 2. [私的Vimのいいところ](./2-vim-lgtm-point.md)
+# 3. [まとめ](./3-summary.md)
+# テキストオブジェクト
 
 require "rails/ruby_version_check"
 
